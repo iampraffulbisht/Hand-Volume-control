@@ -13,7 +13,7 @@ Ensure you have Python 3.6 or higher installed on your system.
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/hand-gesture-volume-control.git
+    git clone https://github.com/your-username/hand-gesture-volume-control.git](https://github.com/iampraffulbisht/Hand-Volume-control
     cd hand-gesture-volume-control
     ```
 
@@ -44,3 +44,15 @@ Run the script to start the webcam and control the volume using hand gestures.
 
 ```bash
 python main.py
+```
+
+License
+
+This project is licensed under the MIT License.
+
+**Acknowledgements
+
+OpenCV
+MediaPipe
+PyCaw
+
